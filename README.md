@@ -1,7 +1,6 @@
 ## 👨‍💻 About Me
 
-Software Engineering student interested in software development, algorithms, computer systems, low-level programming & hardware development.
-
+Software Engineering student interested in software development, algorithms, computer systems, low-level programming & hardware.
 ---
 
 ## 🛠️ Technologies & Tools
