@@ -32,15 +32,16 @@ Software Engineering student interested in software, algorithms, systems and har
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-<h2>🚗 CopaDrive</h2>
+<h2>🌴 CopaDrive</h2>
 
 <p align="center">
   <img src="./assets/copadrive-showcase.png" width="95%" />
 </p>
 
-Collaborative cloud-storage application with web, mobile and backend components.
+Collaborative cloud-storage platform with web, mobile and backend components.
 
 **Tech:** React • Node.js • MongoDB • C++ • Kotlin • Docker • JWT • Git
 
@@ -63,5 +64,6 @@ Collaborative scheduling system with automatic generation, constraints, manual e
 🔗 <a href="https://github.com/shirbenhamu/Planix">View Repository</a>
 
 </td>
+
 </tr>
 </table>
