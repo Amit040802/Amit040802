@@ -47,7 +47,11 @@ Full-Stack Development • Mobile Development • Algorithms
 ![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amit040802&show_icons=true&theme=github_dark" />
+</p>
 ## 🚀 Featured Projects
 
 ### 🚗 [CopaDrive](https://github.com/Niv56/CopaDrive)
