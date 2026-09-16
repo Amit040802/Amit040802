@@ -1,18 +1,22 @@
 # Hi, I'm Amit 👋
 
 🎓 Software Engineering student at Bar-Ilan University  
-💻 Interested in Software Development, Algorithms, Web Development and Mobile Applications  
+💻 Interested in Software Development, Algorithms, Full-Stack Development and Mobile Applications  
 🚀 I enjoy building real-world projects, learning new technologies and turning ideas into working products.
+
+---
 
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering student at Bar-Ilan University
 - 💡 Interested in algorithms, software architecture and full-stack development
 - ⚛️ Experience developing web applications with React
-- 📱 Exploring mobile development with React Native / Expo
-- 🗄️ Experience working with databases such as MongoDB
-- 🤝 Enjoy working on team projects and collaborative software development
+- 📱 Building mobile applications with React Native and Expo
+- 🗄️ Experience working with MongoDB and backend development
+- 🤝 Enjoy working on collaborative software projects and team-based development
 - 📚 Always learning new technologies and improving my development skills
+
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -39,59 +43,74 @@
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
+
 ---
 
 ## 🚀 Featured Projects
 
 ### 🚗 [CopaDrive](https://github.com/Niv56/CopaDrive)
-A collaborative software project with web, mobile and backend components.
 
-- Team-based development
+A collaborative software project consisting of web, mobile and backend components.
+
+**Key aspects:**
+- Team-based software development
 - Web and mobile clients
 - Backend services
 - Database integration
 - Git & GitHub collaboration
+- Development across multiple application components
+
+> 🔒 The repository is private, but I contributed as part of the development team.
 
 ---
 
 ### 📅 [Planix](https://github.com/shirbenhamu/Planix)
-A software engineering project developed as part of my studies at Bar-Ilan University.
 
-- Team development
+A software engineering team project developed as part of my studies at Bar-Ilan University.
+
+**Key aspects:**
+- Collaborative team development
 - Software architecture and design
 - Testing and documentation
 - Iterative development process
-- Collaborative Git workflow
+- Git-based workflow
+- Project presentations and development across multiple iterations
 
 ---
 
-### 🔴 Pokédex
-A Pokédex application for browsing and displaying Pokémon information.
+### 🔴 [Pokédex](https://github.com/Amit040802/Pokemon-Pokedex)
 
-- API integration
-- Dynamic data rendering
-- Application logic
-- User interface development
+A Python-based Pokédex application for browsing and displaying Pokémon information.
+
+**Key aspects:**
+- Python application development
+- Pokémon data processing
+- Graphical user interface
+- Dynamic data presentation
+- Application logic and user interaction
 
 ---
 
 ### 🏋️ Fitness Club App
+
 🔒 **Private project — currently in active development**
 
-A mobile fitness management application built with React Native and Expo.
+A mobile fitness management application that I am currently developing using React Native and Expo.
 
-- Mobile development
+**Key aspects:**
+- Mobile application development
 - React Native
 - Expo
 - JavaScript
 - Backend integration
+- User-focused application design
 
-**Technologies**
+**Technologies:**  
 React Native • Expo • JavaScript
 
 ---
 
 ## 📊 GitHub Activity
 
-Thanks for visiting my profile!  
+Thanks for visiting my profile! 👋  
 Feel free to explore my projects and repositories.
