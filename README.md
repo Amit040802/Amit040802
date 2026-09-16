@@ -7,7 +7,6 @@ Software Engineering Student @ Bar-Ilan University
 <p align="center">
 Full-Stack Development • Mobile Development • Algorithms
 </p>
----
 
 ## 👨‍💻 About Me
 
