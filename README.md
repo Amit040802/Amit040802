@@ -43,7 +43,7 @@
 
 ## 🚀 Featured Projects
 
-### 🚗 CopaDrive
+### 🚗 [CopaDrive](https://github.com/Niv56/CopaDrive)
 A collaborative software project with web, mobile and backend components.
 
 - Team-based development
@@ -54,7 +54,7 @@ A collaborative software project with web, mobile and backend components.
 
 ---
 
-### 📅 Planix
+### 📅 [Planix](https://github.com/shirbenhamu/Planix)
 A software engineering project developed as part of my studies at Bar-Ilan University.
 
 - Team development
