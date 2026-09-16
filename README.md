@@ -8,21 +8,11 @@ Software Engineering Student @ Bar-Ilan University
 Full-Stack Development • Mobile Development • Algorithms
 </p>
 
-<p align="center">
-I enjoy building real-world projects, learning new technologies and turning ideas into working products.
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering student at Bar-Ilan University
-- 💡 Interested in algorithms, software architecture and full-stack development
-- ⚛️ Experience developing web applications with React
-- 📱 Building mobile applications with React Native and Expo
-- 🗄️ Experience working with MongoDB and backend development
-- 🤝 Enjoy working on collaborative software projects and team-based development
-- 📚 Always learning new technologies and improving my development skills
+Software Engineering student focused on building practical software, working on collaborative projects and continuously improving my development skills.
 
 ---
 
@@ -59,28 +49,14 @@ I enjoy building real-world projects, learning new technologies and turning idea
 ## 🚗 CopaDrive
 
 <p align="center">
-  <img src="./assets/copadrive-home.png" width="48%" />
-  <img src="./assets/copadrive-drive.png" width="48%" />
+  <img src="./assets/copadrive-showcase.png" width="90%" />
 </p>
 
-<p align="center">
-  <img src="./assets/copadrive-mobile.png" width="32%" />
-</p>
+Collaborative cloud-storage application with web, mobile and backend components.
 
-A collaborative cloud-storage application with web, mobile and backend components, designed for managing, uploading and sharing files through a modern user interface.
+**Tech:** React • Node.js • MongoDB • C++ • Kotlin • Git
 
-**Technologies:**  
-JavaScript • React • Node.js • MongoDB • C++ • Kotlin • Git
-
-**Highlights:**
-- Web and mobile clients
-- File upload and storage management
-- User authentication
-- File sharing and permissions
-- Backend services
-- Collaborative team development
-
-🔒 **Private repository — developed as part of a collaborative team project.**
+🔒 Private team repository
 
 ---
 
@@ -91,21 +67,9 @@ JavaScript • React • Node.js • MongoDB • C++ • Kotlin • Git
   <img src="./assets/planix-schedule.png" width="48%" />
 </p>
 
-A collaborative scheduling and planning system developed as part of a Software Engineering project at Bar-Ilan University.
+Collaborative scheduling system with automatic generation, constraints, manual editing and advanced search.
 
-The system supports schedule generation, constraints, manual editing and advanced search capabilities.
-
-**Technologies:**  
-Python • Software Design • Automated Testing • Git • GitHub
-
-**Highlights:**
-- Automatic schedule generation
-- Advanced search
-- Schedule constraints
-- Manual schedule editing
-- Multiple schedule views
-- Testing and documentation
-- Team-based iterative development
+**Tech:** Python • Software Design • Testing • Git
 
 🔗 [View Repository](https://github.com/shirbenhamu/Planix)
 
@@ -113,18 +77,9 @@ Python • Software Design • Automated Testing • Git • GitHub
 
 ## 🔴 [Pokédex](https://github.com/Amit040802/Pokemon-Pokedex)
 
-A Python-based Pokédex application for browsing and displaying Pokémon information through a graphical user interface.
+Python-based Pokédex application with a graphical user interface.
 
-**Technologies:**  
-Python • GUI Development • Data Processing
-
-**Highlights:**
-- Pokémon data browsing
-- Graphical user interface
-- Dynamic data presentation
-- Application logic and user interaction
-
-🔗 [View Repository](https://github.com/Amit040802/Pokemon-Pokedex)
+**Tech:** Python • GUI • Data Processing
 
 ---
 
@@ -132,27 +87,6 @@ Python • GUI Development • Data Processing
 
 🔒 **Private project — currently in active development**
 
-A mobile fitness management application I'm currently developing with a focus on workout management and a smooth mobile user experience.
+Mobile fitness management application built with React Native and Expo.
 
-**Technologies:**  
-React Native • Expo • JavaScript • Backend Development
-
-**Highlights:**
-- Mobile-first application
-- Workout management
-- User-focused interface
-- Backend integration
-- Ongoing development
-
----
-
-## 📫 Connect With Me
-
-💼 [LinkedIn](https://www.linkedin.com/in/amit-ben-natan/)  
-💻 [GitHub](https://github.com/Amit040802)
-
----
-
-<p align="center">
-Thanks for visiting my profile 👋
-</p>
+**Tech:** React Native • Expo • JavaScript
