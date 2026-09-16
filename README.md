@@ -8,6 +8,12 @@ Software Engineering Student @ Bar-Ilan University
 Full-Stack Development • Mobile Development • Algorithms
 </p>
 
+<p align="center">
+I enjoy building real-world projects, learning new technologies and turning ideas into working products.
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering student at Bar-Ilan University
@@ -47,9 +53,28 @@ Full-Stack Development • Mobile Development • Algorithms
 ![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Amit040802&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit040802&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+  />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
-### 🚗 [CopaDrive](https://github.com/Niv56/CopaDrive)
+### 🚗 CopaDrive
 
 A collaborative software project consisting of web, mobile and backend components.
 
@@ -61,7 +86,7 @@ A collaborative software project consisting of web, mobile and backend component
 - Git & GitHub collaboration
 - Development across multiple application components
 
-> 🔒 The repository is private, but I contributed as part of the development team.
+> 🔒 Private repository — developed as part of a collaborative team project.
 
 ---
 
@@ -111,7 +136,13 @@ React Native • Expo • JavaScript
 
 ---
 
-## 📊 GitHub Activity
+## 📫 Connect With Me
 
-Thanks for visiting my profile! 👋  
-Feel free to explore my projects and repositories.
+- 💼 LinkedIn: [Amit Lev Ben Natan](https://www.linkedin.com/in/amit-ben-natan/)
+- 💻 GitHub: [Amit040802](https://github.com/Amit040802)
+
+---
+
+<p align="center">
+Thanks for visiting my profile 👋
+</p>
