@@ -54,92 +54,102 @@ I enjoy building real-world projects, learning new technologies and turning idea
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
+
+## 🚗 CopaDrive
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Amit040802&show_icons=true&theme=github_dark&hide_border=true"
-    height="165"
-  />
+  <img src="./assets/copadrive-home.png" width="48%" />
+  <img src="./assets/copadrive-drive.png" width="48%" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit040802&layout=compact&theme=github_dark&hide_border=true"
-    height="165"
-  />
+  <img src="./assets/copadrive-mobile.png" width="32%" />
 </p>
 
----
+A collaborative cloud-storage application with web, mobile and backend components, designed for managing, uploading and sharing files through a modern user interface.
 
-## 🚀 Featured Projects
+**Technologies:**  
+JavaScript • React • Node.js • MongoDB • C++ • Kotlin • Git
 
-### 🚗 CopaDrive
-
-A collaborative software project consisting of web, mobile and backend components.
-
-**Key aspects:**
-- Team-based software development
+**Highlights:**
 - Web and mobile clients
+- File upload and storage management
+- User authentication
+- File sharing and permissions
 - Backend services
-- Database integration
-- Git & GitHub collaboration
-- Development across multiple application components
-
-> 🔒 Private repository — developed as part of a collaborative team project.
-
----
-
-### 📅 [Planix](https://github.com/shirbenhamu/Planix)
-
-A software engineering team project developed as part of my studies at Bar-Ilan University.
-
-**Key aspects:**
 - Collaborative team development
-- Software architecture and design
-- Testing and documentation
-- Iterative development process
-- Git-based workflow
-- Project presentations and development across multiple iterations
+
+🔒 **Private repository — developed as part of a collaborative team project.**
 
 ---
 
-### 🔴 [Pokédex](https://github.com/Amit040802/Pokemon-Pokedex)
+## 📅 [Planix](https://github.com/shirbenhamu/Planix)
 
-A Python-based Pokédex application for browsing and displaying Pokémon information.
+<p align="center">
+  <img src="./assets/planix-search.png" width="48%" />
+  <img src="./assets/planix-schedule.png" width="48%" />
+</p>
 
-**Key aspects:**
-- Python application development
-- Pokémon data processing
+A collaborative scheduling and planning system developed as part of a Software Engineering project at Bar-Ilan University.
+
+The system supports schedule generation, constraints, manual editing and advanced search capabilities.
+
+**Technologies:**  
+Python • Software Design • Automated Testing • Git • GitHub
+
+**Highlights:**
+- Automatic schedule generation
+- Advanced search
+- Schedule constraints
+- Manual schedule editing
+- Multiple schedule views
+- Testing and documentation
+- Team-based iterative development
+
+🔗 [View Repository](https://github.com/shirbenhamu/Planix)
+
+---
+
+## 🔴 [Pokédex](https://github.com/Amit040802/Pokemon-Pokedex)
+
+A Python-based Pokédex application for browsing and displaying Pokémon information through a graphical user interface.
+
+**Technologies:**  
+Python • GUI Development • Data Processing
+
+**Highlights:**
+- Pokémon data browsing
 - Graphical user interface
 - Dynamic data presentation
 - Application logic and user interaction
 
+🔗 [View Repository](https://github.com/Amit040802/Pokemon-Pokedex)
+
 ---
 
-### 🏋️ Fitness Club App
+## 🏋️ Fitness Club App
 
 🔒 **Private project — currently in active development**
 
-A mobile fitness management application that I am currently developing using React Native and Expo.
-
-**Key aspects:**
-- Mobile application development
-- React Native
-- Expo
-- JavaScript
-- Backend integration
-- User-focused application design
+A mobile fitness management application I'm currently developing with a focus on workout management and a smooth mobile user experience.
 
 **Technologies:**  
-React Native • Expo • JavaScript
+React Native • Expo • JavaScript • Backend Development
+
+**Highlights:**
+- Mobile-first application
+- Workout management
+- User-focused interface
+- Backend integration
+- Ongoing development
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Amit Lev Ben Natan](https://www.linkedin.com/in/amit-ben-natan/)
-- 💻 GitHub: [Amit040802](https://github.com/Amit040802)
+💼 [LinkedIn](https://www.linkedin.com/in/amit-ben-natan/)  
+💻 [GitHub](https://github.com/Amit040802)
 
 ---
 
