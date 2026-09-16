@@ -1,3 +1,15 @@
+<h1 align="center">Hi 👋, I'm Amit</h1>
+
+<h3 align="center">
+Software Engineering Student @ Bar-Ilan University
+</h3>
+
+<p align="center">
+Full-Stack Development • Mobile Development • Algorithms
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 Software Engineering student focused on building practical software, working on collaborative projects and continuously improving my development skills.
@@ -32,12 +44,10 @@ Software Engineering student focused on building practical software, working on 
 
 ---
 
-# 🚀 Featured Projects
-
 ## 🚗 CopaDrive
 
 <p align="center">
-  <img src="./assets/copadrive-showcase.png" width="90%" />
+  <img src="./assets/copadrive-showcase.png" width="75%" />
 </p>
 
 Collaborative cloud-storage application with web, mobile and backend components.
@@ -51,8 +61,7 @@ Collaborative cloud-storage application with web, mobile and backend components.
 ## 📅 [Planix](https://github.com/shirbenhamu/Planix)
 
 <p align="center">
-  <img src="./assets/planix-search.png" width="48%" />
-  <img src="./assets/planix-schedule.png" width="48%" />
+  <img src="./assets/planix-search.png" width="60%" />
 </p>
 
 Collaborative scheduling system with automatic generation, constraints, manual editing and advanced search.
