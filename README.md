@@ -41,53 +41,50 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🚗 CopaDrive
+### 🚗 CopaDrive
+A collaborative software project with web, mobile and backend components.
 
-A collaborative software project focused on building a complete application with web, mobile and server-side components.
-
-**Highlights**
-- Worked as part of a development team
+- Team-based development
 - Web and mobile clients
 - Backend services
 - Database integration
-- Git-based collaborative development
+- Git & GitHub collaboration
 
 ---
 
-## 📅 Planix
+### 📅 Planix
+A software engineering project developed as part of my studies at Bar-Ilan University.
 
-A team software engineering project developed as part of my university studies.
-
-Planix focuses on planning and schedule management and was developed using a structured software engineering process.
-
-**Highlights**
-- Team-based development
-- Software design and architecture
+- Team development
+- Software architecture and design
 - Testing and documentation
-- GitHub workflow and collaborative development
-- Worked across multiple development iterations
+- Iterative development process
+- Collaborative Git workflow
 
 ---
 
-## 🔴 Pokédex
+### 🔴 Pokédex
+A Pokédex application for browsing and displaying Pokémon information.
 
-A Pokédex application that retrieves and presents Pokémon information through a user-friendly interface.
-
-**Highlights**
 - API integration
-- Dynamic data presentation
+- Dynamic data rendering
 - Application logic
-- UI development
+- User interface development
 
 ---
 
-## 🏋️ Fitness Club App — In Development
+### 🏋️ Fitness Club App
+🔒 **Private project — currently in active development**
 
-A personal fitness management application that I'm currently developing.
+A mobile fitness management application built with React Native and Expo.
 
-The project includes both mobile and backend development and is currently kept private while active development continues.
+- Mobile development
+- React Native
+- Expo
+- JavaScript
+- Backend integration
 
 **Technologies**
 React Native • Expo • JavaScript
