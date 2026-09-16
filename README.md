@@ -1,6 +1,7 @@
 ## 👨‍💻 About Me
 
-Software Engineering student interested in software development, algorithms, computer systems, low-level programming & hardware.
+Software Engineering student interested in software, algorithms, systems and hardware.
+
 ---
 
 ## 🛠️ Technologies & Tools
@@ -29,10 +30,14 @@ Software Engineering student interested in software development, algorithms, com
 
 ---
 
-## 🚗 CopaDrive
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h2>🚗 CopaDrive</h2>
 
 <p align="center">
-  <img src="./assets/copadrive-showcase.png" width="70%" />
+  <img src="./assets/copadrive-showcase.png" width="95%" />
 </p>
 
 Collaborative cloud-storage application with web, mobile and backend components.
@@ -41,34 +46,22 @@ Collaborative cloud-storage application with web, mobile and backend components.
 
 🔒 Private team repository
 
----
+</td>
 
-## 📅 [Planix](https://github.com/shirbenhamu/Planix)
+<td width="50%" valign="top">
+
+<h2>📅 <a href="https://github.com/shirbenhamu/Planix">Planix</a></h2>
 
 <p align="center">
-  <img src="./assets/planix-search.png" width="55%" />
+  <img src="./assets/planix-search.png" width="95%" />
 </p>
 
 Collaborative scheduling system with automatic generation, constraints, manual editing and advanced search.
 
 **Tech:** Python • Software Design • Testing • Git
 
-🔗 [View Repository](https://github.com/shirbenhamu/Planix)
+🔗 <a href="https://github.com/shirbenhamu/Planix">View Repository</a>
 
----
-
-## 🔴 [Pokédex](https://github.com/Amit040802/Pokemon-Pokedex)
-
-Python-based Pokédex application with a graphical user interface.
-
-**Tech:** Python • GUI • Data Processing
-
----
-
-## 🏋️ Fitness Club App
-
-🔒 **Private project — currently in active development**
-
-Mobile fitness management application built with React Native and Expo.
-
-**Tech:** React Native • Expo • JavaScript
+</td>
+</tr>
+</table>
