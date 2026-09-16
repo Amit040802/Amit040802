@@ -1,15 +1,3 @@
-<h1 align="center">Hi 👋, I'm Amit</h1>
-
-<h3 align="center">
-Software Engineering Student @ Bar-Ilan University
-</h3>
-
-<p align="center">
-Full-Stack Development • Mobile Development • Algorithms
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 Software Engineering student focused on building practical software, working on collaborative projects and continuously improving my development skills.
