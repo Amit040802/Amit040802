@@ -1,4 +1,4 @@
-<img width="1075" height="127" alt="image" src="https://github.com/user-attachments/assets/8b57881b-9ab8-47d2-b163-f382a2987e9c" />## 👨‍💻 About Me
+## 👨‍💻 About Me
 
 Software Engineering student interested in software, algorithms, systems and hardware.
 
