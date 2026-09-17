@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+<img width="1075" height="127" alt="image" src="https://github.com/user-attachments/assets/8b57881b-9ab8-47d2-b163-f382a2987e9c" />## 👨‍💻 About Me
 
 Software Engineering student interested in software, algorithms, systems and hardware.
 
@@ -26,7 +26,7 @@ Software Engineering student interested in software, algorithms, systems and har
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 
-**Additional knowledge:** Computer Architecture • Operating Systems • Microprocessors • Assembly • Low-Level Programming
+**Additional knowledge:** Computer Architecture • Operating Systems • OOP • Microprocessors • Assembly • Low-Level Programming
 
 ---
 
