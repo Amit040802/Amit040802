@@ -1,3 +1,4 @@
+
 ## 👨‍💻 About Me
 
 Software Engineering student interested in software, algorithms, systems and hardware.
@@ -35,7 +36,7 @@ Software Engineering student interested in software, algorithms, systems and har
 
 <td width="50%" valign="top">
 
-<h2>🌴 CopaDrive</h2>
+<h2>🌴 <a href="https://github.com/Niv56/CopaDrive">CopaDrive</a></h2>
 
 <p align="center">
   <img src="./assets/copadrive-showcase.png" width="95%" />
@@ -45,7 +46,7 @@ Collaborative cloud-storage platform with web, mobile and backend components.
 
 **Tech:** React • Node.js • MongoDB • C++ • Kotlin • Docker • JWT • Git
 
-🔒 Private team repository
+🔗 <a href="https://github.com/Niv56/CopaDrive">View Repository</a>
 
 </td>
 
